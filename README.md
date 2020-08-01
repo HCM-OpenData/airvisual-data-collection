@@ -56,7 +56,7 @@ The campaign was conducted from July 20, 2020.
 The airvisual-crawler will crawl data via API and stored on your server as csv format.
  ![alt text](https://github.com/HCM-OpenData/airvisual-data-collection/blob/master/image/Screen%20Shot%202020-08-01%20at%2021.15.19.png?raw=true)
 
-Format details:
+  * Format details:
 | Time                     | Location            | AQI | 
 |--------------------------|---------------------|-----| 
 | 2020-07-20T08:30:51.922Z | Ap Xuan Thoi Dong 2 | 62  | 
@@ -64,7 +64,7 @@ Format details:
 | 2020-07-20T10:00:51.786Z | Ap Xuan Thoi Dong 2 | 62  | 
 | 2020-07-20T10:10:51.884Z | Ap Xuan Thoi Dong 2 | 100 | 
 
-About "Time" column you must convert to your locale timezone:
+  * About "Time" column you must convert to your locale timezone:
 ```sh
 var a = new Date("2020-07-20T08:30:51.922Z");
 a.toLocaleString()
