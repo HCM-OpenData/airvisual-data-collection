@@ -18,6 +18,7 @@ You can give me a coffee cup, it's can help me retain server auto collect data.
  
   * How it work:
 The airvisual-crawler will crawl data via API and stored on your server as csv format.
+ ![alt text](https://github.com/HCM-OpenData/airvisual-data-collection/blob/master/image/Screen%20Shot%202020-08-01%20at%2020.48.00.png?raw=true)
  ## REFERENCES
  1. https://www.iqair.com/
  2. http://cem.gov.vn/
