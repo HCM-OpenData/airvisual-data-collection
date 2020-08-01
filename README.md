@@ -10,8 +10,8 @@
 
 
  #### You can:
-  1. Download simple data in repo
-  2. Request me full data collection, or you can contact me for buy this tool to collect airvisual data  anywhere.
+  1. Download simple data in repo.
+  2. Request full data with cite my git in your research, or you can contact me for buy this tool to collect airvisual data anywhere.
 
 ## INTRODUCTION
 
