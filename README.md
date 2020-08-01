@@ -8,11 +8,18 @@
 
 <p align="center">Your donation help us remain server active</p>
 
+
+ #### You can:
+  1. Download simple data in repo
+  2. Request me full data collection, or you can contact me for buy this tool to collect airvisual data  anywhere.
+
 ## INTRODUCTION
 
 Ho-Chi-Minh city, located in the South of Vietnam, is the mostpopulous and developed city the country. Due to fast economicdevelopment, the city is facing various environmental problems,especially air pollution. 
 
 Although the concern of air pollution is the emerging requirement, not much effort has done to gather air pollution with smallergranularity and high density. It is difficult for researchers to access a good source of air pollution data, except for some public websites and apps aimed at serving ordinary citizens such as AirVisual [1] and EnviSoft [2]. With the efforts of creating a scientific dataset forresearching.  We create HCM-OpenData - a project collect AQI data in Ho Chi Minh City for research purpose. 
+
+
 
 The campaign was conducted from July 20, 2020.
 ### List of station:
@@ -37,9 +44,6 @@ The campaign was conducted from July 20, 2020.
 | SimCity Premier District 9                    | /vietnam/ho-chi-minh-city/simcity-premier-district-9                    | 10.821354            | 106.81799             | 
 | Truong THCS Thanh Da                          | /vietnam/ho-chi-minh-city/truong-thcs-thanh-da                          | 10.81356068          | 106.7202117           | 
 
-
-
- #### You can download simple data in this repo, or you can contact me for buy this tool to collect airvisual data  anywhere.
  
  ### airvisual-crawler
  * Clone my source, install on your server, config your location you want to crawler data via API obtain on iqair.com
@@ -66,8 +70,6 @@ var a = new Date("2020-07-20T08:30:51.922Z");
 a.toLocaleString()
 >> "7/20/2020, 3:30:51 PM"
 ```
-
-It's can help me retain server auto collect data.
 
  ## REFERENCES
  1. https://www.iqair.com/
