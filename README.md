@@ -36,7 +36,7 @@ List of staion:
  
   * How it work:
 The airvisual-crawler will crawl data via API and stored on your server as csv format.
- ![alt text](https://github.com/HCM-OpenData/airvisual-data-collection/blob/master/image/Screen Shot 2020-08-01 at 21.15.19.png?raw=true)
+ ![alt text](https://github.com/HCM-OpenData/airvisual-data-collection/blob/master/image/Screen%20Shot%202020-08-01%20at%2021.15.19.png?raw=true)
 
 You can give me a coffee cup, it's can help me retain server auto collect data.
 <p>
