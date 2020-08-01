@@ -1,6 +1,8 @@
 ## INTRODUCTION
-Although the concern of air pollution is the emerging requirement, not much effort has done to gather air pollution with smallergranularity and high density. It is difficult for researchers to access a good source of air pollution data, except for some public websites and apps aimed at serving ordinary citizens such as AirVisual [1] and EnviSoft [2]. With the efforts of creating a scientific dataset forresearching. 
-HCM-OpenData - A project collect AQI data in Ho Chi Minh City for research purpose. 
+Ho-Chi-Minh city, located in the South of Vietnam, is the mostpopulous and developed city the country. Due to fast economicdevelopment, the city is facing various environmental problems,especially air pollution. 
+
+Although the concern of air pollution is the emerging requirement, not much effort has done to gather air pollution with smallergranularity and high density. It is difficult for researchers to access a good source of air pollution data, except for some public websites and apps aimed at serving ordinary citizens such as AirVisual [1] and EnviSoft [2]. With the efforts of creating a scientific dataset forresearching.  We create HCM-OpenData - a project collect AQI data in Ho Chi Minh City for research purpose. 
+
 The campaign was conducted from July 20, 2020.
 ### List of staion:
 
