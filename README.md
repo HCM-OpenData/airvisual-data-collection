@@ -1,5 +1,5 @@
 ## INTRODUCTION
-It is difficult for researchers to access a good source of air pollution data, except for some public websites and apps aimed at serving ordinary citizens such as AirVisual [2] and EnviSoft [3]. With the efforts of creating a scientific dataset forresearching. HCM-OpenData - A project collect AQI data in Ho Chi Minh City for research purpose.
+It is difficult for researchers to access a good source of air pollution data, except for some public websites and apps aimed at serving ordinary citizens such as AirVisual [1] and EnviSoft [2]. With the efforts of creating a scientific dataset forresearching. HCM-OpenData - A project collect AQI data in Ho Chi Minh City for research purpose.
 
 You can give me a coffee cup, it's can help me retain server auto collect data.
 <p>
@@ -9,6 +9,12 @@ You can give me a coffee cup, it's can help me retain server auto collect data.
 </p>
 
  You can download simple data in this repo, or you can contact me for buy this tool to collect airvisual data  anywhere.
+ ### airvisual-crawler
+ * Clone my source, install on your server, config your location you want to crawler data via API obtain on iqair.com
+ * To run silently:
+      1. Install PM2: https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/
+      2. Run source:
+ ![alt text](https://github.com/HCM-OpenData/airvisual-data-collection/blob/master/image/Screen%20Shot%202020-08-01%20at%2019.17.37.png?raw=true)
  
  ## REFERENCES
  1. https://www.iqair.com/
