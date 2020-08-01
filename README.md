@@ -1,5 +1,4 @@
-# Airvisual-data-collection
-
+## INTRODUCTION
 It is difficult for researchers to access a good source of air pollution data, except for some public websites and apps aimed at serving ordinary citizens such as AirVisual [2] and EnviSoft [3]. With the efforts of creating a scientific dataset forresearching. HCM-OpenData - A project collect AQI data in Ho Chi Minh City for research purpose.
 
 You can give me a coffee cup, it's can help me retain server auto collect data.
@@ -10,3 +9,8 @@ You can give me a coffee cup, it's can help me retain server auto collect data.
 </p>
 
  You can download simple data in this repo, or you can contact me for buy this tool to collect airvisual data  anywhere.
+ 
+ ## REFERENCES
+ 1. https://www.iqair.com/
+ 2. http://cem.gov.vn/
+ 
