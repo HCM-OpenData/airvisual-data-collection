@@ -46,18 +46,8 @@ Format details:
 |--------------------------|---------------------|-----| 
 | 2020-07-20T08:30:51.922Z | Ap Xuan Thoi Dong 2 | 62  | 
 | 2020-07-20T08:40:52.251Z | Ap Xuan Thoi Dong 2 | 62  | 
-| 2020-07-20T08:50:52.174Z | Ap Xuan Thoi Dong 2 | 62  | 
-| 2020-07-20T09:00:51.784Z | Ap Xuan Thoi Dong 2 | 62  | 
-| 2020-07-20T09:10:52.858Z | Ap Xuan Thoi Dong 2 | 62  | 
-| 2020-07-20T09:20:51.812Z | Ap Xuan Thoi Dong 2 | 62  | 
-| 2020-07-20T09:30:51.969Z | Ap Xuan Thoi Dong 2 | 62  | 
-| 2020-07-20T09:40:51.771Z | Ap Xuan Thoi Dong 2 | 62  | 
-| 2020-07-20T09:50:52.084Z | Ap Xuan Thoi Dong 2 | 62  | 
 | 2020-07-20T10:00:51.786Z | Ap Xuan Thoi Dong 2 | 62  | 
 | 2020-07-20T10:10:51.884Z | Ap Xuan Thoi Dong 2 | 100 | 
-| 2020-07-20T10:20:51.815Z | Ap Xuan Thoi Dong 2 | 100 | 
-| 2020-07-20T10:30:51.986Z | Ap Xuan Thoi Dong 2 | 100 | 
-| 2020-07-20T10:40:51.786Z | Ap Xuan Thoi Dong 2 | 100 | 
 
 About "Time" column you must convert to your locale timezone:
 ```sh
