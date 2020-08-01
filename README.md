@@ -45,6 +45,10 @@ The campaign was conducted from July 20, 2020.
 | Truong THCS Thanh Da                          | /vietnam/ho-chi-minh-city/truong-thcs-thanh-da                          | 10.81356068          | 106.7202117           | 
 
  
+### AQI station distribution
+ ![alt text](https://github.com/HCM-OpenData/airvisual-data-collection/blob/master/image/Screen%20Shot%202020-08-01%20at%2023.37.58.png?raw=true)
+
+
  ### airvisual-crawler
  * Clone my source, install on your server, config your location you want to crawler data via API obtain on iqair.com
  * To run silently:
