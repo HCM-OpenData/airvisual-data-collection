@@ -37,9 +37,34 @@ The campaign was conducted from July 20, 2020.
       2. Run source:
  ![alt text](https://github.com/HCM-OpenData/airvisual-data-collection/blob/master/image/Screen%20Shot%202020-08-01%20at%2019.17.37.png?raw=true)
  
-  * How it work:
+  * How it works:
 The airvisual-crawler will crawl data via API and stored on your server as csv format.
  ![alt text](https://github.com/HCM-OpenData/airvisual-data-collection/blob/master/image/Screen%20Shot%202020-08-01%20at%2021.15.19.png?raw=true)
+
+Format details:
+| Time                     | Location            | AQI | 
+|--------------------------|---------------------|-----| 
+| 2020-07-20T08:30:51.922Z | Ap Xuan Thoi Dong 2 | 62  | 
+| 2020-07-20T08:40:52.251Z | Ap Xuan Thoi Dong 2 | 62  | 
+| 2020-07-20T08:50:52.174Z | Ap Xuan Thoi Dong 2 | 62  | 
+| 2020-07-20T09:00:51.784Z | Ap Xuan Thoi Dong 2 | 62  | 
+| 2020-07-20T09:10:52.858Z | Ap Xuan Thoi Dong 2 | 62  | 
+| 2020-07-20T09:20:51.812Z | Ap Xuan Thoi Dong 2 | 62  | 
+| 2020-07-20T09:30:51.969Z | Ap Xuan Thoi Dong 2 | 62  | 
+| 2020-07-20T09:40:51.771Z | Ap Xuan Thoi Dong 2 | 62  | 
+| 2020-07-20T09:50:52.084Z | Ap Xuan Thoi Dong 2 | 62  | 
+| 2020-07-20T10:00:51.786Z | Ap Xuan Thoi Dong 2 | 62  | 
+| 2020-07-20T10:10:51.884Z | Ap Xuan Thoi Dong 2 | 100 | 
+| 2020-07-20T10:20:51.815Z | Ap Xuan Thoi Dong 2 | 100 | 
+| 2020-07-20T10:30:51.986Z | Ap Xuan Thoi Dong 2 | 100 | 
+| 2020-07-20T10:40:51.786Z | Ap Xuan Thoi Dong 2 | 100 | 
+
+About "Time" column you must convert to your locale timezone:
+```sh
+var a = new Date("2020-07-20T08:30:51.922Z");
+a.toLocaleString()
+>> "7/20/2020, 3:30:51 PM"
+```
 
 You can give me a coffee cup, it's can help me retain server auto collect data.
 <p>
