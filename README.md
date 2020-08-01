@@ -1,4 +1,4 @@
-# airvisual-data-collection
+# Airvisual-data-collection
 
 It is difficult for researchers to access a good source of air pollution data, except for some public websites and apps aimed at serving ordinary citizens such as AirVisual [2] and EnviSoft [3]. With the efforts of creating a scientific dataset forresearching. HCM-OpenData - A project collect AQI data in Ho Chi Minh City for research purpose.
 
