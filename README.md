@@ -1,5 +1,5 @@
   <a href="https://paypal.me/hieund9418"><img src="https://img.shields.io/badge/Donate-PayPal-dc3d53.svg"/></a>
-  <a href="https://github.com/mnrteam219"><img src="https://avatars2.githubusercontent.com/u/68223577?s=100&u=29d45055839e54ac97ffe2bf2d3915ff0bf4c0e6&v=4"></a>
+  <a href="https://github.com/mnrteam219"><img src="https://avatars2.githubusercontent.com/u/68223577?s=50&u=29d45055839e54ac97ffe2bf2d3915ff0bf4c0e6&"></a>
 </p>
 
 ## INTRODUCTION
