@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://paypal.me/hieund9418"><img src="https://img.shields.io/badge/Donate-PayPal-dc3d53.svg"/></a>
-  <a href="https://github.com/mnrteam219"><img src="https://avatars2.githubusercontent.com/u/68223577?s=50&u=29d45055839e54ac97ffe2bf2d3915ff0bf4c0e6&"></a>
     <a href="https://www.buymeacoffee.com/qZHglXx" rel="nofollow"> 
     <img src="https://camo.githubusercontent.com/c1dad50ef8c7b0ce138c2ec7c5eff881fed84682/68747470733a2f2f692e696d6775722e636f6d2f58454b3259345a2e706e67" alt="alt text" data-canonical-src="https://i.imgur.com/XEK2Y4Z.png" style="max-width:100%;">
   </a>
